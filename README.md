@@ -75,7 +75,7 @@ if (str == NULL) {
 
 ## OUTPUT
 
-00![Screenshot 2025-04-27 153215](https://github.com/user-attachments/assets/b785d7fe-d1cb-4033-bde2-9b9a29ad7023)
+![Screenshot 2025-04-27 153215](https://github.com/user-attachments/assets/b785d7fe-d1cb-4033-bde2-9b9a29ad7023)
 
 
 ## RESULT
